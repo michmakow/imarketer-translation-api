@@ -25,3 +25,4 @@ jobs:
       working-directory: imarketer-translation-api
     - name: Build
       run: dotnet build --no-restore
+      working-directory: imarketer-translation-api
